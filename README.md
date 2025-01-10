@@ -6,7 +6,7 @@ This game was created for a project in 2022-2023. It was a simple way to practic
 - Be sure all the PNGs are in the same directory as the Java file. If not, you'll have to change pieces of code to access the images in the game.
 - This project essentially creates a Bingo sheet for you to use in a game of Bingo. Once you run the program, you'll be prompted on whether you wish to add or remove a token and the number of the token you would like add/remove, in that order.
 - Follow the instructions and you should have little issues.
-- To quit,just close the program.
+- To quit, just close the program.
 
 ## Credits
 - Developed by Emily Amos (@superemma13)
